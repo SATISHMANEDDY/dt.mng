@@ -1,0 +1,701 @@
+Product_ID,Product_Name,Category,Gender,Brand,City,Price_INR,Discount_%,Rating,Season,Sales
+1,Kids T-Shirt,Casual,Children,Pantaloons,Delhi,770,30,3.2,All,399
+2,Kids T-Shirt,Sports,Children,Reliance Trends,Mumbai,582,5,3.5,Festival,328
+3,Kurta,Formal,Male,Zudio,Delhi,2038,20,3.6,Monsoon,465
+4,Track Pants,Formal,Male,Westside,Hyderabad,835,5,4.9,Festival,192
+5,T-Shirt,Winter,Male,Westside,Hyderabad,2671,10,4.6,Summer,393
+6,Jeans,Casual,Female,Reliance Trends,Chennai,1399,40,4.3,Festival,473
+7,Jeans,Formal,Female,Reliance Trends,Kolkata,1132,40,3.6,Summer,60
+8,Track Pants,Casual,Male,Westside,Bangalore,2802,40,3.7,Festival,209
+9,Saree,Ethnic,Female,Max,Kolkata,899,20,4.5,Summer,103
+10,Lehenga,Ethnic,Female,Pantaloons,Kolkata,1527,40,4.5,Monsoon,48
+11,Track Pants,Casual,Male,Zudio,Hyderabad,470,5,4.8,All,310
+12,Kids Jeans,Formal,Children,Zudio,Kolkata,2078,5,3.5,Festival,146
+13,Kids Dress,Sports,Children,Fabindia,Chennai,1953,20,3.8,All,132
+14,Kurta,Winter,Male,Reliance Trends,Mumbai,825,30,3.3,Summer,368
+15,Jeans,Casual,Female,Zudio,Chennai,2116,20,3.5,Festival,303
+16,Blazer,Casual,Male,Westside,Kolkata,1592,0,3.6,Monsoon,100
+17,Kurti,Ethnic,Female,Pantaloons,Chennai,3937,0,4.7,Monsoon,172
+18,Kids Dress,Sports,Children,Pantaloons,Hyderabad,3322,5,4.1,Winter,418
+19,Kids T-Shirt,Sports,Children,Zudio,Mumbai,657,10,4.8,All,445
+20,Saree,Casual,Female,Max,Mumbai,549,30,4,Winter,55
+21,Kids Shorts,Formal,Children,Max,Delhi,1284,20,4.7,Festival,236
+22,Kurta,Formal,Male,Zudio,Kolkata,2860,10,3.9,All,284
+23,Kurti,Formal,Female,Reliance Trends,Hyderabad,285,20,4.1,Winter,321
+24,T-Shirt,Casual,Male,Pantaloons,Mumbai,3907,0,4.7,Summer,56
+25,Kids Shorts,Ethnic,Children,Pantaloons,Chennai,740,30,4.9,Festival,312
+26,Kids Jacket,Formal,Children,Zudio,Delhi,585,0,4.3,Festival,201
+27,Lehenga,Winter,Female,Fabindia,Kolkata,2845,0,3.1,Summer,392
+28,Skirt,Casual,Female,Pantaloons,Delhi,2395,15,3.3,Winter,113
+29,Lehenga,Formal,Female,Zudio,Chennai,600,0,4.3,Summer,296
+30,T-Shirt,Formal,Male,Zudio,Bangalore,2170,5,4.7,Winter,482
+31,Shirt,Winter,Male,Zudio,Hyderabad,3994,40,4.6,Summer,166
+32,Salwar Suit,Sports,Female,Pantaloons,Delhi,1414,5,4.9,Festival,316
+33,Kids Dress,Casual,Children,Reliance Trends,Mumbai,2591,15,4,All,456
+34,Kids Shorts,Casual,Children,Reliance Trends,Delhi,479,20,3.1,Monsoon,461
+35,Jacket,Casual,Male,Pantaloons,Chennai,2634,0,4.2,Monsoon,234
+36,Kids Dress,Sports,Children,Westside,Hyderabad,1035,30,4.4,Monsoon,142
+37,Lehenga,Formal,Female,Zudio,Hyderabad,3278,0,3,All,338
+38,Kids T-Shirt,Casual,Children,Pantaloons,Chennai,1285,5,4.9,Monsoon,471
+39,Shirt,Ethnic,Male,Pantaloons,Bangalore,3614,20,4.4,All,333
+40,Kids Dress,Casual,Children,Westside,Kolkata,623,5,3.5,Monsoon,475
+41,Blazer,Sports,Male,Westside,Hyderabad,2676,5,4.4,Winter,124
+42,Kids Tracksuit,Ethnic,Children,Zudio,Hyderabad,3907,40,3.1,Monsoon,344
+43,Skirt,Ethnic,Female,Reliance Trends,Hyderabad,3357,5,4.3,Summer,154
+44,Blazer,Winter,Male,Fabindia,Bangalore,2496,0,3.2,Monsoon,472
+45,Kids Shorts,Sports,Children,Westside,Chennai,2462,5,3.9,Summer,41
+46,Top,Casual,Female,Pantaloons,Kolkata,1221,30,3.2,All,419
+47,Kids Jacket,Sports,Children,Pantaloons,Delhi,3475,40,3.4,Winter,231
+48,Shirt,Ethnic,Male,Fabindia,Kolkata,3519,5,3.5,Festival,423
+49,Kids T-Shirt,Winter,Children,Zudio,Delhi,1016,40,4.8,Summer,199
+50,Skirt,Formal,Female,Reliance Trends,Kolkata,990,15,3.7,Winter,462
+51,Track Pants,Ethnic,Male,Fabindia,Chennai,1836,30,5,All,294
+52,Kurti,Casual,Female,Pantaloons,Chennai,1286,0,3.2,All,242
+53,Salwar Suit,Ethnic,Female,Max,Chennai,672,15,4.8,Festival,117
+54,Kurti,Winter,Female,Max,Chennai,3012,30,4.9,Summer,397
+55,Kids Shorts,Ethnic,Children,Reliance Trends,Kolkata,3970,10,4.2,Festival,359
+56,Blazer,Ethnic,Male,Westside,Kolkata,1871,10,3.8,Monsoon,171
+57,Kids Shorts,Formal,Children,Fabindia,Bangalore,2973,30,4.8,Festival,335
+58,Kids Jeans,Winter,Children,Reliance Trends,Hyderabad,1374,5,3.9,Monsoon,316
+59,Kids Tracksuit,Ethnic,Children,Zudio,Bangalore,2966,5,4,Festival,426
+60,Kids Shorts,Casual,Children,Max,Kolkata,2791,20,3.7,All,439
+61,Blazer,Ethnic,Male,Pantaloons,Delhi,299,0,3.5,Winter,263
+62,Kids T-Shirt,Winter,Children,Fabindia,Chennai,995,30,4.4,Festival,273
+63,Saree,Formal,Female,Reliance Trends,Bangalore,1095,5,4.6,Summer,376
+64,Kids Jacket,Casual,Children,Pantaloons,Mumbai,2068,5,4.6,Monsoon,361
+65,Kids Dress,Sports,Children,Zudio,Chennai,3537,30,4.8,All,238
+66,Kids Jacket,Formal,Children,Zudio,Hyderabad,3278,5,4.7,Festival,161
+67,Kids Jacket,Formal,Children,Zudio,Mumbai,3121,10,3.5,All,191
+68,Jeans,Casual,Female,Pantaloons,Delhi,1767,30,3.3,Winter,129
+69,Jacket,Winter,Male,Max,Bangalore,1902,0,3.4,All,235
+70,Skirt,Sports,Female,Max,Bangalore,2152,0,4.9,Summer,172
+71,Skirt,Winter,Female,Fabindia,Kolkata,2435,40,4.2,Monsoon,132
+72,Saree,Ethnic,Female,Zudio,Mumbai,1791,10,4.3,Festival,428
+73,Salwar Suit,Formal,Female,Pantaloons,Chennai,2386,0,4.8,Festival,323
+74,Kids Tracksuit,Casual,Children,Fabindia,Bangalore,754,40,3.9,Summer,45
+75,Lehenga,Ethnic,Female,Zudio,Hyderabad,1581,40,4.8,Winter,162
+76,Top,Casual,Female,Reliance Trends,Kolkata,2408,0,5,Festival,199
+77,Blazer,Casual,Male,Reliance Trends,Delhi,1015,40,3,Summer,98
+78,Shirt,Winter,Male,Max,Delhi,2103,30,3.5,Summer,208
+79,Kurta,Sports,Male,Pantaloons,Hyderabad,641,20,3.1,Summer,179
+80,Kids Tracksuit,Winter,Children,Fabindia,Delhi,510,20,4.4,Festival,341
+81,T-Shirt,Ethnic,Male,Reliance Trends,Chennai,3404,0,3.7,Monsoon,239
+82,Kids Jeans,Casual,Children,Fabindia,Hyderabad,250,40,3.8,Monsoon,270
+83,Jacket,Ethnic,Male,Fabindia,Delhi,1982,5,4.5,Festival,353
+84,Jeans,Sports,Female,Zudio,Bangalore,3581,30,4.2,Festival,185
+85,Track Pants,Casual,Male,Zudio,Delhi,3272,15,4.1,All,362
+86,Top,Casual,Female,Westside,Delhi,2196,5,3.7,Festival,152
+87,Top,Sports,Female,Max,Mumbai,2315,5,3.2,All,388
+88,Lehenga,Sports,Female,Fabindia,Bangalore,2844,30,4,Winter,425
+89,T-Shirt,Ethnic,Male,Zudio,Kolkata,1195,10,4.3,Winter,208
+90,Jeans,Sports,Female,Zudio,Kolkata,2453,10,3.7,All,252
+91,Top,Ethnic,Female,Reliance Trends,Kolkata,987,10,3.2,Winter,294
+92,Kids Shorts,Formal,Children,Fabindia,Bangalore,1331,30,4.2,Winter,409
+93,Kids Dress,Ethnic,Children,Pantaloons,Hyderabad,1130,10,3.4,Summer,27
+94,Kids Dress,Formal,Children,Reliance Trends,Mumbai,2465,10,4.4,All,84
+95,Kids Jacket,Casual,Children,Max,Hyderabad,2121,15,3.9,Summer,114
+96,Jeans,Winter,Male,Reliance Trends,Bangalore,2213,0,4.2,Summer,371
+97,Shirt,Formal,Male,Westside,Mumbai,1215,0,4.1,Monsoon,233
+98,Kids Dress,Sports,Children,Max,Bangalore,2044,15,3.6,Winter,321
+99,Top,Sports,Female,Reliance Trends,Chennai,3230,0,4.9,Monsoon,126
+100,Kids Shorts,Ethnic,Children,Pantaloons,Delhi,910,20,3.2,Summer,21
+101,Lehenga,Sports,Female,Westside,Mumbai,1147,10,4.4,Festival,379
+102,Kurti,Formal,Female,Fabindia,Chennai,2907,40,4.9,All,237
+103,Kurta,Formal,Male,Westside,Delhi,491,0,3.3,Winter,177
+104,Kids Tracksuit,Sports,Children,Zudio,Mumbai,2118,30,3.6,All,226
+105,Jeans,Sports,Female,Zudio,Mumbai,2648,0,4.8,Festival,396
+106,Jeans,Ethnic,Female,Reliance Trends,Delhi,2960,40,4.7,Summer,320
+107,Track Pants,Ethnic,Male,Reliance Trends,Delhi,2126,20,4.3,Monsoon,489
+108,Saree,Sports,Female,Fabindia,Bangalore,572,15,3.7,Festival,190
+109,Salwar Suit,Casual,Female,Westside,Bangalore,3040,15,3.6,Winter,225
+110,Kids T-Shirt,Winter,Children,Westside,Hyderabad,1523,0,4.9,Summer,226
+111,Kids T-Shirt,Sports,Children,Zudio,Mumbai,967,20,3.7,Festival,407
+112,Salwar Suit,Winter,Female,Pantaloons,Hyderabad,2448,5,4.9,Summer,244
+113,Kids Jacket,Casual,Children,Fabindia,Chennai,3472,5,4.4,Summer,179
+114,Kids T-Shirt,Sports,Children,Reliance Trends,Delhi,3645,0,3.9,Festival,80
+115,Kids Shorts,Winter,Children,Max,Kolkata,1318,15,4.7,All,261
+116,Jacket,Sports,Male,Zudio,Delhi,3974,20,4,Winter,470
+117,Track Pants,Casual,Male,Zudio,Hyderabad,3425,20,3.5,All,21
+118,Salwar Suit,Ethnic,Female,Max,Kolkata,2204,40,3.3,Monsoon,295
+119,Top,Ethnic,Female,Max,Bangalore,2064,10,4.7,Monsoon,377
+120,Kurta,Winter,Male,Zudio,Mumbai,1502,30,3.9,Winter,487
+121,Lehenga,Formal,Female,Reliance Trends,Delhi,2256,20,3.7,Festival,71
+122,Kurti,Sports,Female,Reliance Trends,Kolkata,789,15,4.7,Festival,99
+123,Jacket,Ethnic,Male,Max,Kolkata,1827,30,3.2,All,188
+124,Kids Dress,Winter,Children,Fabindia,Kolkata,3833,40,4,All,297
+125,Kurta,Casual,Male,Fabindia,Kolkata,3971,10,5,Winter,402
+126,Jacket,Casual,Male,Zudio,Delhi,3041,10,4.8,Summer,43
+127,Skirt,Casual,Female,Westside,Hyderabad,1963,5,3.5,All,230
+128,Kids Tracksuit,Formal,Children,Pantaloons,Mumbai,2695,40,3.8,Winter,369
+129,Jacket,Sports,Male,Pantaloons,Bangalore,2811,10,3.9,Winter,361
+130,Track Pants,Winter,Male,Fabindia,Chennai,846,0,3.9,All,196
+131,Kids Jeans,Winter,Children,Zudio,Hyderabad,1014,15,4.7,All,74
+132,Jacket,Sports,Male,Max,Hyderabad,3063,10,3,All,444
+133,Kids Jacket,Ethnic,Children,Max,Kolkata,3386,30,4.9,Summer,486
+134,Kids Tracksuit,Winter,Children,Pantaloons,Chennai,3483,10,3.4,All,117
+135,Kids Jeans,Formal,Children,Fabindia,Kolkata,360,10,4.6,Summer,37
+136,Kids Jeans,Formal,Children,Westside,Hyderabad,3260,15,3.4,Summer,87
+137,Kids Jeans,Sports,Children,Westside,Delhi,1251,40,4.9,Monsoon,432
+138,Salwar Suit,Ethnic,Female,Zudio,Mumbai,775,40,4.9,Summer,460
+139,Kids Tracksuit,Winter,Children,Westside,Mumbai,3437,15,3,Monsoon,294
+140,Jacket,Ethnic,Male,Max,Bangalore,3567,30,4.9,All,75
+141,Kids Shorts,Winter,Children,Max,Chennai,1542,20,3.4,Summer,52
+142,Kids Jacket,Ethnic,Children,Reliance Trends,Delhi,384,0,3.6,Festival,272
+143,T-Shirt,Formal,Male,Pantaloons,Bangalore,2057,10,4.3,Monsoon,400
+144,Kids Dress,Winter,Children,Fabindia,Kolkata,831,15,4.3,Monsoon,446
+145,Jeans,Winter,Female,Reliance Trends,Kolkata,1716,5,3.9,All,140
+146,Kurti,Ethnic,Female,Fabindia,Hyderabad,447,15,3.6,Monsoon,82
+147,Kurti,Formal,Female,Reliance Trends,Mumbai,3421,10,3.5,Monsoon,84
+148,Kids Shorts,Casual,Children,Pantaloons,Chennai,1083,40,4.7,Monsoon,188
+149,Track Pants,Sports,Male,Westside,Delhi,731,20,3.5,Summer,109
+150,Blazer,Casual,Male,Reliance Trends,Hyderabad,3434,40,3.5,Winter,185
+151,Shirt,Ethnic,Male,Pantaloons,Kolkata,1923,20,3.2,Summer,52
+152,Lehenga,Ethnic,Female,Max,Mumbai,2050,20,3.4,Monsoon,334
+153,Blazer,Sports,Male,Zudio,Kolkata,326,0,5,All,453
+154,Lehenga,Casual,Female,Fabindia,Bangalore,500,0,3.6,Festival,95
+155,Shirt,Ethnic,Male,Fabindia,Chennai,2445,30,3.7,Monsoon,325
+156,Kids Jeans,Winter,Children,Max,Bangalore,605,40,4.4,Monsoon,456
+157,Kids Tracksuit,Sports,Children,Zudio,Bangalore,3836,5,3.8,Winter,443
+158,Lehenga,Winter,Female,Westside,Bangalore,1479,30,3.5,Summer,98
+159,Kids Jacket,Casual,Children,Reliance Trends,Mumbai,1967,0,4.5,Summer,210
+160,Kurta,Casual,Male,Max,Chennai,1549,30,3.2,Monsoon,201
+161,Kids Jacket,Casual,Children,Max,Hyderabad,1639,0,4.2,All,128
+162,Blazer,Winter,Male,Reliance Trends,Hyderabad,3661,20,3.7,Winter,410
+163,Jeans,Formal,Female,Max,Chennai,2712,30,4.3,Festival,33
+164,Kids Tracksuit,Ethnic,Children,Pantaloons,Hyderabad,3077,40,3.6,Summer,193
+165,Kurti,Formal,Female,Max,Kolkata,1840,0,3.3,Winter,344
+166,T-Shirt,Sports,Male,Zudio,Bangalore,2057,10,3.3,Winter,179
+167,Kids Jeans,Sports,Children,Reliance Trends,Mumbai,836,5,4.5,Monsoon,45
+168,Kids T-Shirt,Ethnic,Children,Fabindia,Bangalore,2188,20,3.9,Festival,159
+169,Track Pants,Sports,Male,Westside,Bangalore,653,10,4.4,Summer,323
+170,Jeans,Ethnic,Female,Pantaloons,Bangalore,2653,0,3,Summer,174
+171,Track Pants,Formal,Male,Westside,Hyderabad,690,0,4,All,240
+172,Shirt,Winter,Male,Fabindia,Delhi,2248,20,4.7,Monsoon,432
+173,Kurti,Winter,Female,Zudio,Mumbai,2082,0,4.7,Summer,314
+174,Jeans,Winter,Female,Westside,Mumbai,1858,0,4.9,Festival,107
+175,Kids Jacket,Ethnic,Children,Zudio,Mumbai,1195,15,4.2,Summer,288
+176,Jacket,Ethnic,Male,Pantaloons,Hyderabad,3390,5,3.2,All,344
+177,Kurta,Sports,Male,Westside,Hyderabad,3178,40,4.3,Winter,95
+178,T-Shirt,Formal,Male,Pantaloons,Delhi,2666,5,4.5,All,355
+179,Shirt,Winter,Male,Max,Chennai,2037,30,4.8,Festival,309
+180,Kids Tracksuit,Sports,Children,Fabindia,Hyderabad,817,15,3.1,All,246
+181,Kids Jeans,Ethnic,Children,Reliance Trends,Hyderabad,2277,0,3.6,Monsoon,251
+182,T-Shirt,Ethnic,Male,Reliance Trends,Kolkata,3738,40,3.2,All,324
+183,Kids Jacket,Winter,Children,Max,Kolkata,3868,0,3.9,Monsoon,434
+184,Kids Tracksuit,Formal,Children,Max,Bangalore,2252,5,4.9,All,250
+185,Track Pants,Ethnic,Male,Max,Kolkata,905,0,3.5,Summer,244
+186,Jeans,Sports,Female,Pantaloons,Hyderabad,1726,10,3.8,Monsoon,416
+187,Salwar Suit,Sports,Female,Fabindia,Kolkata,1569,0,3.7,Summer,305
+188,Kids Jacket,Ethnic,Children,Fabindia,Kolkata,3911,20,4.7,All,190
+189,Kurta,Formal,Male,Westside,Kolkata,3059,30,3.8,All,324
+190,Kids T-Shirt,Ethnic,Children,Zudio,Kolkata,3441,10,4.6,Monsoon,363
+191,Kids Tracksuit,Sports,Children,Fabindia,Kolkata,1933,20,3.7,Summer,205
+192,Saree,Formal,Female,Zudio,Delhi,1126,5,3.3,All,171
+193,Kurta,Sports,Male,Reliance Trends,Kolkata,1578,40,4.2,Monsoon,325
+194,Saree,Formal,Female,Fabindia,Chennai,3512,5,4.4,Winter,42
+195,Top,Formal,Female,Max,Hyderabad,3280,30,4.6,Festival,139
+196,Kids Shorts,Ethnic,Children,Pantaloons,Hyderabad,2977,20,5,Festival,256
+197,Skirt,Winter,Female,Max,Bangalore,862,40,3.4,Monsoon,329
+198,Track Pants,Ethnic,Male,Fabindia,Bangalore,3779,10,4.1,Summer,72
+199,Kids Dress,Casual,Children,Reliance Trends,Delhi,1316,15,4.8,All,95
+200,Kurti,Formal,Female,Westside,Mumbai,1898,0,3.8,Festival,211
+201,Jacket,Casual,Male,Pantaloons,Mumbai,1504,0,4.7,All,352
+202,Skirt,Formal,Female,Reliance Trends,Hyderabad,3956,40,3.9,Winter,445
+203,Track Pants,Winter,Male,Max,Mumbai,3909,0,3,Festival,130
+204,Kurta,Sports,Male,Zudio,Mumbai,3378,10,3.5,Monsoon,82
+205,Shirt,Winter,Male,Zudio,Mumbai,653,40,4.8,Monsoon,325
+206,Kids T-Shirt,Sports,Children,Pantaloons,Kolkata,787,10,3.9,Monsoon,334
+207,Saree,Sports,Female,Pantaloons,Kolkata,2936,0,4,Festival,204
+208,Kurta,Sports,Male,Max,Chennai,282,15,4.7,Monsoon,42
+209,Kids Jacket,Ethnic,Children,Fabindia,Mumbai,1661,40,3.1,All,143
+210,Kids Tracksuit,Casual,Children,Fabindia,Hyderabad,745,0,3.7,Monsoon,193
+211,Kids Shorts,Winter,Children,Fabindia,Delhi,3522,5,3.1,Festival,417
+212,Kurti,Ethnic,Female,Reliance Trends,Delhi,3827,0,3.6,Winter,178
+213,Kids Jacket,Sports,Children,Westside,Mumbai,3284,30,3.4,Festival,202
+214,Track Pants,Ethnic,Male,Reliance Trends,Hyderabad,1988,15,4.5,All,478
+215,Top,Formal,Female,Fabindia,Bangalore,1703,40,4,Festival,430
+216,Blazer,Winter,Male,Zudio,Chennai,3567,5,4.1,Summer,184
+217,T-Shirt,Ethnic,Male,Westside,Bangalore,2667,30,3.9,All,373
+218,Top,Winter,Female,Fabindia,Hyderabad,2717,15,3.5,Summer,425
+219,T-Shirt,Winter,Male,Max,Kolkata,2981,5,4.9,All,93
+220,Kids Tracksuit,Winter,Children,Pantaloons,Mumbai,1165,40,4.3,Summer,205
+221,Jeans,Casual,Female,Pantaloons,Kolkata,2041,10,3.7,Monsoon,410
+222,Kurta,Formal,Male,Westside,Bangalore,1486,30,3.6,Monsoon,78
+223,Blazer,Formal,Male,Max,Bangalore,3940,20,3.2,Festival,416
+224,Salwar Suit,Winter,Female,Max,Hyderabad,3041,15,3.4,Winter,89
+225,Jacket,Formal,Male,Reliance Trends,Kolkata,3662,10,4.3,Festival,383
+226,Kurta,Sports,Male,Westside,Delhi,3114,30,4.9,All,346
+227,Track Pants,Ethnic,Male,Pantaloons,Mumbai,1022,40,3.3,Monsoon,424
+228,Kurti,Ethnic,Female,Max,Hyderabad,2113,40,5,Monsoon,86
+229,Kids T-Shirt,Casual,Children,Zudio,Kolkata,3143,15,4.1,All,413
+230,Skirt,Sports,Female,Pantaloons,Hyderabad,2830,0,3.9,Summer,368
+231,Kids Jeans,Formal,Children,Fabindia,Chennai,944,40,4.9,Monsoon,241
+232,Kids T-Shirt,Casual,Children,Pantaloons,Hyderabad,873,5,3.6,Monsoon,383
+233,Jeans,Sports,Male,Reliance Trends,Hyderabad,1003,30,4.9,All,160
+234,Blazer,Ethnic,Male,Max,Mumbai,2257,30,3.3,Monsoon,317
+235,Shirt,Sports,Male,Westside,Chennai,367,40,4.7,Monsoon,61
+236,Blazer,Sports,Male,Fabindia,Delhi,3340,20,3.8,All,347
+237,Jacket,Sports,Male,Fabindia,Hyderabad,2177,5,4.6,All,370
+238,Top,Winter,Female,Fabindia,Mumbai,846,15,3.8,Summer,257
+239,Jeans,Sports,Male,Westside,Kolkata,1506,30,5,Winter,196
+240,Saree,Ethnic,Female,Max,Mumbai,1506,5,3.9,Monsoon,156
+241,Saree,Formal,Female,Reliance Trends,Hyderabad,1772,40,4.2,Summer,147
+242,Track Pants,Ethnic,Male,Fabindia,Hyderabad,976,40,3.3,Monsoon,283
+243,Lehenga,Ethnic,Female,Reliance Trends,Mumbai,1809,20,3.9,Festival,143
+244,Kurta,Ethnic,Male,Reliance Trends,Hyderabad,2226,20,4.8,Summer,354
+245,Kids Jacket,Ethnic,Children,Reliance Trends,Mumbai,1964,5,4.8,Monsoon,392
+246,Skirt,Winter,Female,Reliance Trends,Bangalore,408,20,4.1,All,205
+247,Kids Jeans,Casual,Children,Max,Bangalore,3329,20,3.6,Festival,339
+248,Kids Dress,Casual,Children,Reliance Trends,Bangalore,1727,40,5,Winter,305
+249,Skirt,Formal,Female,Max,Chennai,1843,20,3.1,Winter,39
+250,Blazer,Ethnic,Male,Max,Bangalore,809,20,4.8,Festival,91
+251,Jeans,Ethnic,Female,Zudio,Chennai,3227,40,3.6,Winter,192
+252,Kids Dress,Sports,Children,Fabindia,Chennai,1426,15,4.6,Festival,208
+253,Salwar Suit,Casual,Female,Max,Hyderabad,3462,30,4.7,Festival,342
+254,Kurta,Winter,Male,Fabindia,Chennai,2564,5,4.4,All,318
+255,Saree,Sports,Female,Zudio,Delhi,3564,30,3.5,Monsoon,313
+256,Kids T-Shirt,Formal,Children,Zudio,Hyderabad,1914,5,3.8,Summer,124
+257,Jeans,Sports,Female,Fabindia,Kolkata,454,30,3.3,Festival,126
+258,Kids Jeans,Winter,Children,Zudio,Hyderabad,908,15,4.8,Monsoon,195
+259,Kids Jeans,Ethnic,Children,Zudio,Delhi,1208,10,4.1,Monsoon,135
+260,Skirt,Ethnic,Female,Fabindia,Kolkata,2201,10,4,Winter,306
+261,Kids Jeans,Ethnic,Children,Max,Kolkata,2423,15,4.8,Summer,222
+262,Skirt,Formal,Female,Reliance Trends,Hyderabad,3124,0,3.7,All,246
+263,Kids Jeans,Winter,Children,Pantaloons,Chennai,1309,20,4.4,Winter,90
+264,Kurta,Sports,Male,Pantaloons,Mumbai,2942,20,3.5,Winter,139
+265,T-Shirt,Winter,Male,Fabindia,Bangalore,610,30,4.5,All,22
+266,Kids Shorts,Winter,Children,Zudio,Kolkata,1015,40,4.9,Festival,184
+267,Salwar Suit,Casual,Female,Fabindia,Chennai,1150,20,4.5,Summer,455
+268,Shirt,Winter,Male,Reliance Trends,Bangalore,3426,15,3.4,Winter,403
+269,Kurti,Casual,Female,Max,Chennai,638,10,3.6,All,348
+270,Kids Dress,Winter,Children,Max,Bangalore,1316,5,4.6,Winter,189
+271,Blazer,Winter,Male,Fabindia,Delhi,256,30,3.7,All,171
+272,Kids Tracksuit,Formal,Children,Max,Kolkata,3873,15,4.7,Winter,283
+273,Kurti,Winter,Female,Pantaloons,Delhi,2154,10,4.9,Summer,23
+274,Lehenga,Formal,Female,Westside,Hyderabad,1435,20,4.4,Festival,25
+275,Salwar Suit,Ethnic,Female,Reliance Trends,Kolkata,683,15,3.6,Winter,227
+276,Kids Dress,Ethnic,Children,Fabindia,Hyderabad,1704,20,3.4,Summer,88
+277,Saree,Winter,Female,Westside,Bangalore,3074,20,4.8,Monsoon,407
+278,Kids Tracksuit,Formal,Children,Fabindia,Chennai,3775,40,3.2,Winter,248
+279,Kids Tracksuit,Ethnic,Children,Max,Mumbai,451,40,4.1,Summer,278
+280,Kurta,Sports,Male,Pantaloons,Hyderabad,3698,20,3.9,Winter,368
+281,Blazer,Sports,Male,Reliance Trends,Chennai,2023,40,3.1,Festival,87
+282,Kids Jacket,Winter,Children,Reliance Trends,Chennai,2092,30,4.6,Monsoon,390
+283,Jacket,Ethnic,Male,Fabindia,Delhi,2567,0,3.1,Summer,196
+284,Kids T-Shirt,Sports,Children,Reliance Trends,Bangalore,328,10,3.8,Summer,413
+285,Track Pants,Winter,Male,Zudio,Bangalore,3760,15,3.8,All,369
+286,Kids Dress,Formal,Children,Reliance Trends,Delhi,2399,15,4.1,All,392
+287,Track Pants,Casual,Male,Westside,Bangalore,2957,30,4.1,Summer,292
+288,Skirt,Formal,Female,Zudio,Hyderabad,834,10,3.4,Winter,468
+289,Kids T-Shirt,Casual,Children,Max,Mumbai,1184,5,3.1,Festival,324
+290,Jacket,Sports,Male,Pantaloons,Kolkata,380,15,3.9,Summer,296
+291,Track Pants,Casual,Male,Max,Hyderabad,1158,40,4.8,Winter,314
+292,Jeans,Sports,Female,Pantaloons,Hyderabad,3788,5,5,All,286
+293,Jacket,Ethnic,Male,Reliance Trends,Chennai,2622,30,4.8,All,340
+294,Kids Jacket,Sports,Children,Reliance Trends,Hyderabad,2834,30,3.8,Festival,288
+295,Salwar Suit,Winter,Female,Pantaloons,Hyderabad,1740,5,4.5,Festival,262
+296,Track Pants,Formal,Male,Fabindia,Delhi,3499,15,4.8,All,307
+297,Lehenga,Sports,Female,Pantaloons,Bangalore,1193,10,3.4,Monsoon,351
+298,Jacket,Ethnic,Male,Max,Kolkata,3596,5,3.1,Summer,213
+299,Kids Dress,Sports,Children,Reliance Trends,Delhi,3494,40,4.2,Summer,363
+300,Kids Shorts,Winter,Children,Westside,Hyderabad,3922,0,3.4,Winter,117
+301,Kids T-Shirt,Winter,Children,Fabindia,Chennai,3081,5,3.8,Winter,142
+302,Kids Jeans,Ethnic,Children,Zudio,Chennai,2856,10,3.6,Festival,204
+303,Kids Jacket,Winter,Children,Fabindia,Bangalore,3318,40,3.6,Summer,124
+304,Top,Winter,Female,Max,Delhi,3235,5,3,Summer,303
+305,Kids Dress,Winter,Children,Pantaloons,Delhi,1550,5,3.8,All,446
+306,Jacket,Sports,Male,Westside,Bangalore,3162,30,4.5,All,255
+307,Blazer,Ethnic,Male,Pantaloons,Kolkata,2437,15,3.4,Winter,475
+308,Kids Tracksuit,Casual,Children,Reliance Trends,Mumbai,3549,30,3.1,Monsoon,23
+309,Saree,Formal,Female,Fabindia,Delhi,236,5,4,Summer,211
+310,Kurta,Sports,Male,Fabindia,Bangalore,263,0,4.1,Festival,230
+311,T-Shirt,Sports,Male,Max,Hyderabad,269,20,4.6,All,365
+312,Skirt,Formal,Female,Reliance Trends,Chennai,808,5,3.4,Summer,289
+313,Skirt,Ethnic,Female,Zudio,Mumbai,1727,15,3.9,All,144
+314,Kids Shorts,Ethnic,Children,Fabindia,Kolkata,3310,0,3.2,Summer,214
+315,Jeans,Winter,Female,Fabindia,Mumbai,3077,5,3.2,Summer,452
+316,Salwar Suit,Ethnic,Female,Reliance Trends,Chennai,3963,0,3.5,Monsoon,481
+317,Kids Dress,Winter,Children,Reliance Trends,Mumbai,3002,10,4.8,All,308
+318,Kids T-Shirt,Formal,Children,Reliance Trends,Delhi,2603,5,4.5,All,384
+319,Kurti,Ethnic,Female,Max,Delhi,2520,40,4.7,Winter,366
+320,Kids Jeans,Winter,Children,Fabindia,Kolkata,520,20,4.5,Winter,197
+321,T-Shirt,Winter,Male,Reliance Trends,Hyderabad,2677,40,4.2,Winter,324
+322,Skirt,Ethnic,Female,Fabindia,Hyderabad,3408,15,4,Summer,202
+323,Kids Jacket,Winter,Children,Fabindia,Chennai,2905,15,3.2,Winter,336
+324,Skirt,Formal,Female,Reliance Trends,Hyderabad,830,15,4.4,Summer,344
+325,Blazer,Winter,Male,Westside,Mumbai,573,0,4.9,All,247
+326,Skirt,Ethnic,Female,Pantaloons,Mumbai,966,15,3.9,Summer,304
+327,Kids Jacket,Casual,Children,Reliance Trends,Hyderabad,2469,0,4.2,Summer,421
+328,Skirt,Winter,Female,Westside,Bangalore,1787,40,3.2,Summer,481
+329,Kids Shorts,Sports,Children,Pantaloons,Kolkata,1758,5,3.3,Monsoon,174
+330,Lehenga,Formal,Female,Pantaloons,Bangalore,1329,15,3.6,Summer,420
+331,Jeans,Ethnic,Male,Fabindia,Kolkata,2229,20,4.2,Winter,254
+332,Shirt,Ethnic,Male,Zudio,Hyderabad,3646,20,3.8,Summer,461
+333,Lehenga,Ethnic,Female,Fabindia,Chennai,756,10,3.6,Festival,375
+334,Jacket,Ethnic,Male,Zudio,Hyderabad,1392,30,4.4,Winter,271
+335,Kids Shorts,Ethnic,Children,Westside,Bangalore,1694,0,4.9,Festival,122
+336,Kids Dress,Formal,Children,Reliance Trends,Kolkata,2089,30,3.4,Monsoon,428
+337,Skirt,Casual,Female,Fabindia,Bangalore,769,30,3.6,Festival,149
+338,Kids Shorts,Winter,Children,Reliance Trends,Bangalore,2648,15,4.2,Festival,293
+339,Kids Tracksuit,Winter,Children,Reliance Trends,Hyderabad,3072,40,4.1,Monsoon,346
+340,T-Shirt,Formal,Male,Pantaloons,Kolkata,2708,0,4.1,All,350
+341,Kids Tracksuit,Winter,Children,Zudio,Mumbai,242,0,3.5,All,281
+342,Kids Dress,Sports,Children,Fabindia,Chennai,1104,15,3.7,Monsoon,257
+343,Kids Dress,Sports,Children,Westside,Mumbai,2176,0,3.6,Winter,491
+344,T-Shirt,Formal,Male,Westside,Hyderabad,2064,40,3.4,All,267
+345,Lehenga,Casual,Female,Fabindia,Kolkata,2052,10,3.1,Festival,42
+346,Kids T-Shirt,Casual,Children,Fabindia,Mumbai,2972,40,3.3,All,399
+347,Kurta,Formal,Male,Pantaloons,Hyderabad,2492,15,4.9,Monsoon,138
+348,Salwar Suit,Formal,Female,Fabindia,Kolkata,1969,15,3.1,Winter,334
+349,Jacket,Sports,Male,Zudio,Mumbai,3085,5,3.4,Festival,405
+350,Kids T-Shirt,Sports,Children,Max,Delhi,1697,10,3.4,Summer,78
+351,Salwar Suit,Winter,Female,Fabindia,Hyderabad,2644,15,4.2,Monsoon,320
+352,Jeans,Ethnic,Male,Max,Delhi,3532,30,4.4,Festival,172
+353,Kids Dress,Casual,Children,Westside,Mumbai,1176,10,3.2,Winter,211
+354,Kids Shorts,Sports,Children,Zudio,Chennai,763,20,3.8,Festival,115
+355,Salwar Suit,Sports,Female,Max,Delhi,2204,10,3.3,Winter,181
+356,Jeans,Casual,Female,Reliance Trends,Bangalore,758,5,4.6,All,307
+357,Kids Tracksuit,Winter,Children,Fabindia,Bangalore,1901,30,4.7,Festival,270
+358,T-Shirt,Sports,Male,Pantaloons,Hyderabad,332,10,3.4,Summer,167
+359,Track Pants,Winter,Male,Fabindia,Bangalore,2450,20,3.2,Monsoon,78
+360,Skirt,Sports,Female,Max,Mumbai,3311,30,3.9,All,131
+361,Kurti,Formal,Female,Reliance Trends,Bangalore,1275,10,4.7,All,64
+362,Skirt,Casual,Female,Pantaloons,Kolkata,2607,30,3.7,Winter,383
+363,Kids Tracksuit,Winter,Children,Max,Delhi,3413,5,4.6,Winter,432
+364,Kurta,Ethnic,Male,Westside,Chennai,2405,5,3.6,Monsoon,380
+365,Top,Sports,Female,Max,Kolkata,3537,0,3.3,All,404
+366,Kurti,Ethnic,Female,Fabindia,Delhi,1221,5,4.4,Winter,444
+367,Track Pants,Winter,Male,Pantaloons,Chennai,2789,10,4.3,Festival,212
+368,Kurti,Casual,Female,Max,Kolkata,1338,30,4.9,Festival,208
+369,Lehenga,Ethnic,Female,Reliance Trends,Kolkata,580,30,4.9,Monsoon,345
+370,Kids Tracksuit,Ethnic,Children,Max,Bangalore,1091,15,4.6,Summer,273
+371,Top,Ethnic,Female,Max,Chennai,733,20,4.7,All,423
+372,Salwar Suit,Casual,Female,Reliance Trends,Kolkata,3409,40,3.9,Summer,83
+373,Jacket,Winter,Male,Zudio,Delhi,3019,5,4.8,Summer,174
+374,Track Pants,Ethnic,Male,Fabindia,Hyderabad,1224,0,3.7,Summer,482
+375,Kids Shorts,Casual,Children,Fabindia,Hyderabad,3172,30,4.5,Festival,239
+376,Kids T-Shirt,Casual,Children,Pantaloons,Bangalore,518,5,4.2,Summer,285
+377,Kids Jacket,Casual,Children,Fabindia,Hyderabad,3545,0,5,Summer,236
+378,Kids Shorts,Winter,Children,Pantaloons,Bangalore,564,30,4.6,Summer,72
+379,Top,Ethnic,Female,Zudio,Delhi,2826,30,3.3,Winter,291
+380,Kids T-Shirt,Sports,Children,Zudio,Hyderabad,3158,5,4.3,Winter,97
+381,Jeans,Winter,Female,Reliance Trends,Mumbai,772,40,3.2,Winter,393
+382,Top,Winter,Female,Pantaloons,Delhi,1333,30,3.2,All,303
+383,Kids Dress,Sports,Children,Fabindia,Mumbai,3671,40,4.3,All,174
+384,Kurta,Sports,Male,Pantaloons,Kolkata,1803,10,4.3,Monsoon,421
+385,Jacket,Winter,Male,Pantaloons,Bangalore,2812,20,3.1,Summer,475
+386,Jeans,Ethnic,Male,Zudio,Chennai,1922,10,4.1,Winter,108
+387,Skirt,Casual,Female,Max,Mumbai,255,10,3.4,Summer,492
+388,Track Pants,Winter,Male,Westside,Kolkata,3117,20,4.5,Monsoon,236
+389,Kids Jacket,Casual,Children,Max,Chennai,824,10,3.2,Monsoon,60
+390,Kids Shorts,Formal,Children,Westside,Bangalore,2601,30,4.5,Monsoon,352
+391,Kids Tracksuit,Casual,Children,Fabindia,Bangalore,3188,40,3.5,All,145
+392,Jacket,Casual,Male,Max,Chennai,424,10,4.3,Festival,356
+393,Kids Shorts,Casual,Children,Fabindia,Delhi,3072,0,3.3,Summer,197
+394,Kids Dress,Ethnic,Children,Westside,Delhi,3270,40,4.7,Winter,395
+395,Track Pants,Casual,Male,Zudio,Hyderabad,2344,0,3.5,All,315
+396,Kids T-Shirt,Winter,Children,Max,Hyderabad,426,15,4.7,Festival,105
+397,Saree,Ethnic,Female,Max,Kolkata,3159,0,3.5,Summer,280
+398,T-Shirt,Casual,Male,Reliance Trends,Bangalore,1689,15,4.8,Winter,111
+399,Kurta,Winter,Male,Westside,Delhi,1903,30,3.6,Winter,442
+400,Kurta,Ethnic,Male,Max,Kolkata,3893,0,3.4,Summer,431
+401,Kids T-Shirt,Winter,Children,Zudio,Hyderabad,3367,40,3.6,Summer,64
+402,Kids Jacket,Casual,Children,Pantaloons,Hyderabad,2508,40,3.6,All,338
+403,Jacket,Ethnic,Male,Zudio,Delhi,3199,20,4.5,Monsoon,145
+404,T-Shirt,Winter,Male,Pantaloons,Chennai,1617,30,4.7,Summer,469
+405,Jeans,Casual,Male,Fabindia,Kolkata,1458,0,3.4,Festival,141
+406,Lehenga,Casual,Female,Fabindia,Hyderabad,580,0,4.8,Winter,479
+407,Kids Jacket,Ethnic,Children,Fabindia,Mumbai,2577,0,4,Festival,346
+408,Kurti,Sports,Female,Reliance Trends,Bangalore,2912,5,3.5,Monsoon,153
+409,Skirt,Winter,Female,Westside,Bangalore,1312,5,3.1,All,123
+410,Track Pants,Sports,Male,Pantaloons,Mumbai,872,15,3.9,Summer,228
+411,Kurta,Ethnic,Male,Zudio,Hyderabad,2096,10,4.7,Winter,66
+412,Track Pants,Ethnic,Male,Reliance Trends,Delhi,3622,40,3.7,Monsoon,66
+413,Kids Shorts,Ethnic,Children,Max,Mumbai,2972,10,3.5,Festival,109
+414,Jacket,Winter,Male,Fabindia,Chennai,1222,0,3.9,Monsoon,431
+415,T-Shirt,Casual,Male,Pantaloons,Delhi,1010,40,3.8,Summer,371
+416,Kids Tracksuit,Casual,Children,Max,Hyderabad,3956,40,3.1,Monsoon,53
+417,Blazer,Winter,Male,Reliance Trends,Hyderabad,700,0,4.9,Winter,45
+418,Kurta,Winter,Male,Zudio,Mumbai,1766,30,3.9,Festival,201
+419,Shirt,Ethnic,Male,Zudio,Delhi,340,20,4.2,All,145
+420,Kids Jeans,Winter,Children,Max,Bangalore,448,0,3.6,Festival,90
+421,Saree,Sports,Female,Fabindia,Chennai,3454,0,5,Winter,420
+422,Kids Jeans,Winter,Children,Zudio,Hyderabad,3937,20,4,Monsoon,218
+423,Saree,Casual,Female,Max,Delhi,319,40,4.6,All,49
+424,Jeans,Ethnic,Female,Pantaloons,Delhi,609,5,4.3,Monsoon,156
+425,Kids Tracksuit,Casual,Children,Max,Bangalore,1652,40,5,Winter,108
+426,Shirt,Sports,Male,Fabindia,Kolkata,1668,20,3.1,All,378
+427,Jeans,Sports,Female,Max,Delhi,3626,40,4.8,Winter,272
+428,Kids Jeans,Formal,Children,Reliance Trends,Mumbai,429,5,4.2,Festival,30
+429,Kids Jacket,Casual,Children,Max,Delhi,3502,5,3.7,All,110
+430,Kurti,Casual,Female,Max,Kolkata,3955,5,4.5,Winter,453
+431,Kids Jeans,Casual,Children,Fabindia,Kolkata,1819,20,3.2,All,174
+432,Saree,Formal,Female,Fabindia,Bangalore,2858,10,3.3,Festival,307
+433,Kids Dress,Ethnic,Children,Fabindia,Chennai,3535,5,3.8,Winter,395
+434,Kids Jeans,Formal,Children,Fabindia,Mumbai,3074,20,3.8,Winter,414
+435,Kids T-Shirt,Formal,Children,Westside,Chennai,1103,30,4.1,Monsoon,499
+436,Saree,Ethnic,Female,Pantaloons,Hyderabad,1507,5,4.3,Summer,65
+437,Kids Tracksuit,Ethnic,Children,Reliance Trends,Hyderabad,1057,5,4.4,Festival,199
+438,Skirt,Casual,Female,Reliance Trends,Bangalore,1993,30,3.8,Summer,105
+439,Lehenga,Winter,Female,Max,Bangalore,614,40,4,All,462
+440,Kids Tracksuit,Formal,Children,Zudio,Mumbai,3472,40,3.1,Winter,30
+441,Top,Casual,Female,Westside,Delhi,3835,15,3.3,Summer,58
+442,Kids T-Shirt,Ethnic,Children,Max,Bangalore,3084,0,3.9,Monsoon,354
+443,Kurta,Winter,Male,Reliance Trends,Mumbai,1555,5,4.9,Winter,229
+444,Kids Dress,Sports,Children,Fabindia,Hyderabad,1417,5,3.2,All,221
+445,Kids Dress,Winter,Children,Reliance Trends,Hyderabad,214,15,3.2,Winter,441
+446,Kids Tracksuit,Sports,Children,Pantaloons,Mumbai,304,5,3.3,Festival,169
+447,Jacket,Casual,Male,Zudio,Bangalore,2202,30,3.5,All,348
+448,Kids Jacket,Formal,Children,Zudio,Hyderabad,963,15,3.1,All,245
+449,Top,Formal,Female,Max,Mumbai,818,40,4.4,All,69
+450,Blazer,Ethnic,Male,Zudio,Chennai,1130,20,3.1,Monsoon,218
+451,Kids Jacket,Sports,Children,Max,Delhi,2149,10,3.2,Festival,482
+452,Kids T-Shirt,Sports,Children,Max,Chennai,2974,20,3.3,Monsoon,407
+453,Saree,Formal,Female,Pantaloons,Delhi,373,15,3.2,Winter,369
+454,Saree,Formal,Female,Westside,Hyderabad,3929,30,4.8,Monsoon,54
+455,Jacket,Sports,Male,Max,Hyderabad,3707,10,4,Festival,489
+456,Track Pants,Sports,Male,Max,Bangalore,659,15,3.3,Monsoon,310
+457,Kids Dress,Casual,Children,Max,Mumbai,3417,10,4.7,Summer,470
+458,Lehenga,Ethnic,Female,Fabindia,Bangalore,2542,20,3.9,Festival,108
+459,Lehenga,Formal,Female,Max,Kolkata,3040,15,3.1,Monsoon,475
+460,Salwar Suit,Formal,Female,Fabindia,Bangalore,3970,10,4.8,Summer,30
+461,Skirt,Ethnic,Female,Westside,Bangalore,3714,30,4.4,All,464
+462,Shirt,Ethnic,Male,Westside,Hyderabad,3184,15,4.2,Festival,65
+463,Jacket,Formal,Male,Fabindia,Bangalore,3309,20,4.7,Festival,440
+464,Kurta,Formal,Male,Westside,Kolkata,2274,15,3.3,Summer,455
+465,Kids Dress,Casual,Children,Pantaloons,Delhi,3627,0,3.5,Winter,253
+466,Jeans,Formal,Male,Westside,Bangalore,2267,15,4.3,All,83
+467,Kids T-Shirt,Formal,Children,Zudio,Chennai,2026,5,4.9,All,262
+468,Kids Dress,Ethnic,Children,Pantaloons,Hyderabad,3266,40,4.4,All,165
+469,Jacket,Casual,Male,Max,Delhi,3709,5,4.3,Winter,366
+470,Jeans,Winter,Male,Reliance Trends,Kolkata,235,15,4.8,Monsoon,351
+471,Kurta,Casual,Male,Westside,Chennai,3496,10,4.4,Winter,383
+472,Kids Jeans,Winter,Children,Westside,Bangalore,1231,5,3.9,Festival,366
+473,Kids Dress,Winter,Children,Reliance Trends,Mumbai,2294,30,4.9,Monsoon,449
+474,Jeans,Sports,Female,Westside,Hyderabad,3002,0,4,Monsoon,192
+475,Salwar Suit,Ethnic,Female,Westside,Kolkata,3111,30,3.6,All,96
+476,Kids Shorts,Casual,Children,Zudio,Kolkata,1508,30,3.3,Monsoon,33
+477,Kids Jacket,Ethnic,Children,Zudio,Bangalore,1789,30,3.1,All,382
+478,Kids Shorts,Ethnic,Children,Fabindia,Chennai,2813,40,4,Winter,363
+479,Jeans,Ethnic,Female,Fabindia,Chennai,940,10,3.2,Winter,85
+480,Kids Jeans,Sports,Children,Fabindia,Hyderabad,2879,0,3.4,Winter,134
+481,Kids Jeans,Winter,Children,Westside,Hyderabad,2597,10,3.9,All,80
+482,Kurti,Sports,Female,Max,Mumbai,2133,5,4,Monsoon,464
+483,Kids Jacket,Sports,Children,Zudio,Mumbai,3765,40,3.3,All,122
+484,Lehenga,Sports,Female,Pantaloons,Hyderabad,3731,30,3.4,Festival,61
+485,Top,Formal,Female,Fabindia,Mumbai,218,15,3.5,All,409
+486,Kurta,Formal,Male,Reliance Trends,Delhi,2715,15,4.3,Festival,226
+487,Lehenga,Winter,Female,Reliance Trends,Chennai,1015,30,3.7,Summer,27
+488,Skirt,Sports,Female,Reliance Trends,Kolkata,215,30,4.5,Winter,135
+489,Kids Jeans,Ethnic,Children,Reliance Trends,Bangalore,2260,20,3.6,Winter,53
+490,Jeans,Ethnic,Male,Fabindia,Chennai,2641,20,3.7,Festival,474
+491,Kids Shorts,Ethnic,Children,Westside,Delhi,874,40,3.8,Festival,136
+492,Blazer,Formal,Male,Fabindia,Mumbai,2614,20,3.3,Winter,207
+493,Kids Tracksuit,Casual,Children,Fabindia,Hyderabad,3358,20,4.2,Festival,324
+494,Blazer,Casual,Male,Reliance Trends,Kolkata,673,15,3.9,Summer,83
+495,Kids Jeans,Winter,Children,Pantaloons,Kolkata,3007,30,3,Winter,235
+496,Kids T-Shirt,Sports,Children,Max,Chennai,3069,5,3.8,All,480
+497,Kurta,Sports,Male,Westside,Mumbai,3413,0,4,Summer,331
+498,Track Pants,Ethnic,Male,Pantaloons,Hyderabad,3080,15,3.6,Monsoon,40
+499,Kids Jacket,Formal,Children,Westside,Delhi,210,0,4.3,Festival,484
+500,Track Pants,Sports,Male,Pantaloons,Mumbai,3391,20,3.2,Festival,390
+501,Jeans,Formal,Male,Westside,Hyderabad,2100,0,3.2,Festival,109
+502,Track Pants,Ethnic,Male,Fabindia,Hyderabad,1943,30,3.2,All,455
+503,T-Shirt,Formal,Male,Westside,Hyderabad,3862,15,4.9,Winter,157
+504,Kids T-Shirt,Ethnic,Children,Pantaloons,Mumbai,1840,15,4.9,All,159
+505,Salwar Suit,Winter,Female,Fabindia,Delhi,662,5,4.4,Festival,50
+506,T-Shirt,Winter,Male,Zudio,Chennai,2977,15,3.4,Monsoon,214
+507,Jeans,Casual,Female,Zudio,Bangalore,661,15,3.9,Winter,52
+508,Salwar Suit,Ethnic,Female,Fabindia,Kolkata,2348,40,4.5,Summer,390
+509,Kids Shorts,Ethnic,Children,Max,Kolkata,3068,20,3.2,Monsoon,358
+510,Kids Shorts,Winter,Children,Fabindia,Kolkata,2826,15,3.3,All,443
+511,Kids Dress,Casual,Children,Fabindia,Delhi,2269,40,3.9,Summer,273
+512,T-Shirt,Winter,Male,Pantaloons,Hyderabad,1338,0,4,All,301
+513,Kids Jacket,Winter,Children,Reliance Trends,Bangalore,2018,40,4.1,Winter,65
+514,Lehenga,Ethnic,Female,Zudio,Kolkata,2875,0,3.2,Summer,231
+515,Kurta,Sports,Male,Reliance Trends,Chennai,2734,30,3.6,Summer,280
+516,Kids Shorts,Winter,Children,Westside,Mumbai,3543,5,4.7,All,189
+517,Kids Dress,Sports,Children,Fabindia,Kolkata,1687,30,3.9,Festival,69
+518,Kids Shorts,Casual,Children,Westside,Kolkata,3475,10,4.1,All,211
+519,Kids T-Shirt,Casual,Children,Zudio,Delhi,3565,30,4.5,Winter,229
+520,Jeans,Sports,Male,Pantaloons,Mumbai,3689,15,3.4,Winter,442
+521,Blazer,Ethnic,Male,Zudio,Mumbai,3994,30,4.7,Summer,321
+522,Track Pants,Winter,Male,Fabindia,Chennai,2264,5,4.9,Festival,22
+523,Kids Tracksuit,Casual,Children,Zudio,Chennai,2177,20,4.6,Monsoon,486
+524,Blazer,Sports,Male,Fabindia,Delhi,623,15,4.3,Winter,330
+525,Jeans,Winter,Female,Max,Kolkata,3321,5,3.5,Festival,195
+526,Lehenga,Formal,Female,Zudio,Chennai,3066,30,4,Winter,451
+527,Kids Dress,Ethnic,Children,Fabindia,Delhi,1021,5,4.2,Monsoon,168
+528,Kids Jeans,Formal,Children,Max,Chennai,3042,30,3.6,Winter,79
+529,Jeans,Winter,Female,Max,Kolkata,3107,15,4.3,Monsoon,477
+530,Kids Jeans,Winter,Children,Max,Mumbai,302,15,3.3,Summer,363
+531,Shirt,Ethnic,Male,Westside,Kolkata,1225,5,4.7,Winter,373
+532,Saree,Sports,Female,Westside,Bangalore,618,20,4.7,Summer,398
+533,Kids Shorts,Sports,Children,Pantaloons,Chennai,3411,40,4.6,Festival,167
+534,Kids Tracksuit,Casual,Children,Zudio,Bangalore,3427,30,3.6,Festival,302
+535,T-Shirt,Ethnic,Male,Max,Bangalore,3598,5,4.8,Winter,380
+536,Kids Tracksuit,Ethnic,Children,Max,Kolkata,2670,5,4.6,Monsoon,119
+537,Lehenga,Formal,Female,Pantaloons,Delhi,3209,20,3.2,Summer,40
+538,Top,Sports,Female,Pantaloons,Delhi,2591,40,3.5,All,189
+539,Salwar Suit,Formal,Female,Pantaloons,Hyderabad,2643,0,4.5,Summer,340
+540,Kids Tracksuit,Ethnic,Children,Max,Chennai,1665,0,4.6,Festival,182
+541,Kids Shorts,Formal,Children,Reliance Trends,Chennai,851,15,4.1,Monsoon,226
+542,Jeans,Formal,Male,Fabindia,Hyderabad,1555,10,3.6,Winter,405
+543,Kids Dress,Winter,Children,Fabindia,Mumbai,668,30,3.7,Monsoon,143
+544,Kids Dress,Sports,Children,Reliance Trends,Kolkata,3826,10,3.8,Winter,427
+545,Jacket,Ethnic,Male,Fabindia,Hyderabad,300,20,4.6,Monsoon,211
+546,Kids Dress,Winter,Children,Reliance Trends,Hyderabad,3878,30,3.4,Festival,283
+547,T-Shirt,Formal,Male,Max,Mumbai,2766,0,3.4,Monsoon,342
+548,Track Pants,Winter,Male,Pantaloons,Chennai,3593,30,4.8,Summer,399
+549,Salwar Suit,Casual,Female,Reliance Trends,Bangalore,3135,10,3.1,Winter,57
+550,Shirt,Ethnic,Male,Reliance Trends,Chennai,3564,5,4.8,Monsoon,228
+551,Lehenga,Winter,Female,Westside,Mumbai,1794,30,3.2,Festival,23
+552,Kids Tracksuit,Sports,Children,Fabindia,Chennai,385,30,4.7,Summer,203
+553,Kids T-Shirt,Ethnic,Children,Max,Mumbai,1352,40,4.9,All,215
+554,Skirt,Casual,Female,Pantaloons,Chennai,1099,5,4.5,Festival,427
+555,Kids Jeans,Formal,Children,Fabindia,Kolkata,2852,10,4.9,All,25
+556,Kids Dress,Formal,Children,Reliance Trends,Mumbai,2544,20,3.8,Summer,300
+557,Jeans,Formal,Male,Pantaloons,Bangalore,3908,30,4.7,All,92
+558,Shirt,Formal,Male,Westside,Delhi,668,5,4.3,Monsoon,310
+559,Track Pants,Sports,Male,Fabindia,Chennai,498,10,4.3,Festival,148
+560,Shirt,Sports,Male,Westside,Hyderabad,724,30,4.3,Festival,71
+561,Jeans,Casual,Female,Westside,Bangalore,2044,10,4.2,Winter,176
+562,Kids Dress,Formal,Children,Max,Hyderabad,3507,10,4.9,Monsoon,106
+563,Jeans,Formal,Male,Fabindia,Kolkata,2823,15,3.6,Winter,204
+564,Blazer,Ethnic,Male,Zudio,Bangalore,1668,40,3.6,Festival,302
+565,Shirt,Sports,Male,Westside,Delhi,3849,20,3.4,Summer,395
+566,Kids T-Shirt,Casual,Children,Max,Kolkata,326,40,4.2,Summer,227
+567,Kids Shorts,Casual,Children,Westside,Chennai,3860,20,3.9,Monsoon,416
+568,Jeans,Winter,Male,Max,Kolkata,3709,10,3.3,Winter,276
+569,Kids T-Shirt,Winter,Children,Max,Mumbai,2913,5,4.7,All,432
+570,Kids Tracksuit,Formal,Children,Pantaloons,Bangalore,851,5,4.1,Monsoon,309
+571,Kids Shorts,Winter,Children,Reliance Trends,Delhi,3317,15,3.5,All,155
+572,Saree,Casual,Female,Max,Hyderabad,1788,15,4.8,Winter,471
+573,T-Shirt,Ethnic,Male,Fabindia,Chennai,2794,40,3.5,Summer,399
+574,Jeans,Sports,Female,Pantaloons,Bangalore,2876,15,3.7,Monsoon,354
+575,Kurta,Ethnic,Male,Pantaloons,Chennai,1861,10,4.6,Festival,196
+576,Skirt,Winter,Female,Reliance Trends,Chennai,3811,5,3.9,Monsoon,137
+577,Kurta,Ethnic,Male,Pantaloons,Delhi,843,10,4.2,Winter,438
+578,Blazer,Formal,Male,Westside,Kolkata,663,15,4.4,Festival,265
+579,Kurta,Formal,Male,Reliance Trends,Delhi,375,5,4.1,Festival,102
+580,Blazer,Sports,Male,Max,Delhi,428,5,3.5,Summer,112
+581,Kids Jacket,Sports,Children,Fabindia,Mumbai,3797,30,4.5,Monsoon,440
+582,Kurti,Formal,Female,Max,Bangalore,3751,15,3.3,Festival,445
+583,Jeans,Formal,Female,Pantaloons,Chennai,2900,20,3.5,Monsoon,390
+584,Kids Jeans,Winter,Children,Max,Mumbai,1140,15,3.8,Monsoon,75
+585,Shirt,Sports,Male,Fabindia,Bangalore,3584,5,4.2,Monsoon,110
+586,Jeans,Sports,Female,Max,Chennai,3280,0,3.2,Summer,357
+587,Kurta,Sports,Male,Fabindia,Kolkata,1966,20,3.8,Summer,467
+588,Blazer,Sports,Male,Pantaloons,Bangalore,3433,40,3.8,Festival,321
+589,Kids Tracksuit,Sports,Children,Zudio,Delhi,1241,15,4.5,Summer,485
+590,Jeans,Sports,Male,Zudio,Hyderabad,973,0,4.4,Monsoon,424
+591,Kurta,Sports,Male,Max,Mumbai,1735,30,3.4,Summer,431
+592,Lehenga,Ethnic,Female,Pantaloons,Bangalore,2867,20,3.5,Summer,457
+593,Kids Jacket,Sports,Children,Max,Hyderabad,2986,15,4.5,All,231
+594,Kids Dress,Winter,Children,Westside,Chennai,2471,15,3.5,Winter,177
+595,Kids Jeans,Winter,Children,Fabindia,Mumbai,3262,5,3.9,Winter,378
+596,T-Shirt,Formal,Male,Zudio,Hyderabad,3479,20,4.2,Monsoon,370
+597,Kids T-Shirt,Formal,Children,Fabindia,Mumbai,3493,0,4.6,Festival,261
+598,Kids Jacket,Casual,Children,Westside,Delhi,1717,0,4.2,Summer,390
+599,Lehenga,Sports,Female,Westside,Kolkata,2646,0,4.9,Monsoon,439
+600,Blazer,Winter,Male,Reliance Trends,Delhi,3682,30,4.9,Festival,285
+601,Saree,Casual,Female,Max,Chennai,3059,5,4.2,Monsoon,365
+602,Jeans,Formal,Male,Pantaloons,Mumbai,1329,40,3.8,Summer,362
+603,Lehenga,Sports,Female,Max,Mumbai,3217,30,3.1,Winter,66
+604,Kids Jeans,Sports,Children,Westside,Hyderabad,3539,10,3.5,Monsoon,119
+605,Lehenga,Sports,Female,Westside,Delhi,1866,20,3.2,Summer,57
+606,Kids Jeans,Ethnic,Children,Max,Hyderabad,3787,20,4.6,Summer,314
+607,Salwar Suit,Winter,Female,Max,Bangalore,3352,5,4.5,Festival,417
+608,Salwar Suit,Winter,Female,Reliance Trends,Bangalore,675,10,3.1,Monsoon,344
+609,Blazer,Formal,Male,Zudio,Hyderabad,2314,20,3,All,446
+610,Saree,Ethnic,Female,Zudio,Kolkata,3266,40,3.7,Summer,303
+611,Jacket,Ethnic,Male,Pantaloons,Chennai,1301,5,4.9,All,369
+612,Jacket,Formal,Male,Fabindia,Delhi,3773,10,3.4,Winter,123
+613,Track Pants,Sports,Male,Pantaloons,Mumbai,690,0,4.4,All,359
+614,Jeans,Casual,Female,Reliance Trends,Bangalore,1719,20,3.6,Monsoon,479
+615,Kids Jeans,Winter,Children,Max,Hyderabad,1828,5,4.5,Winter,85
+616,Kurta,Winter,Male,Max,Mumbai,2257,10,3.8,Festival,371
+617,Jacket,Casual,Male,Zudio,Hyderabad,3022,0,3,Monsoon,127
+618,Jeans,Casual,Female,Westside,Chennai,3729,10,3.4,All,154
+619,Jeans,Winter,Male,Westside,Hyderabad,952,15,3.8,Monsoon,234
+620,Kids Jeans,Ethnic,Children,Westside,Bangalore,935,20,3.3,Festival,314
+621,Kids Shorts,Casual,Children,Pantaloons,Chennai,1969,40,3.8,All,94
+622,Kids Shorts,Winter,Children,Pantaloons,Bangalore,2245,5,5,Summer,454
+623,Kids Dress,Sports,Children,Zudio,Hyderabad,1226,20,4.7,All,44
+624,Kurti,Formal,Female,Pantaloons,Hyderabad,2150,40,4.3,Summer,250
+625,Kids Jeans,Ethnic,Children,Westside,Chennai,2482,40,3.5,All,30
+626,Kurti,Ethnic,Female,Pantaloons,Chennai,2557,30,4.3,Monsoon,109
+627,Top,Ethnic,Female,Zudio,Kolkata,2029,0,3.8,Monsoon,166
+628,Salwar Suit,Formal,Female,Fabindia,Hyderabad,1926,30,4.2,Winter,227
+629,T-Shirt,Formal,Male,Pantaloons,Hyderabad,1496,30,3.6,All,156
+630,Kids Tracksuit,Winter,Children,Zudio,Hyderabad,3262,20,4,All,250
+631,Saree,Formal,Female,Pantaloons,Kolkata,1160,30,3.5,Summer,400
+632,Kids Tracksuit,Casual,Children,Pantaloons,Bangalore,620,0,3.1,Winter,469
+633,Jeans,Casual,Female,Zudio,Chennai,3332,0,3.2,Summer,336
+634,T-Shirt,Winter,Male,Pantaloons,Delhi,3220,10,3.9,All,84
+635,Kurta,Formal,Male,Reliance Trends,Kolkata,1660,40,4.8,Summer,462
+636,Lehenga,Sports,Female,Max,Bangalore,752,30,4.1,All,322
+637,Kids Jacket,Sports,Children,Max,Kolkata,2818,20,3.6,Festival,197
+638,Jeans,Formal,Female,Zudio,Hyderabad,1697,15,3.5,Summer,175
+639,T-Shirt,Sports,Male,Westside,Hyderabad,2120,20,3,Winter,492
+640,Skirt,Winter,Female,Reliance Trends,Bangalore,3467,10,4.2,All,427
+641,Kurta,Ethnic,Male,Zudio,Chennai,1989,15,3.5,Winter,386
+642,Kids Tracksuit,Winter,Children,Pantaloons,Hyderabad,523,15,4.3,Festival,284
+643,Kids Tracksuit,Ethnic,Children,Fabindia,Kolkata,2377,40,3.5,All,116
+644,Shirt,Formal,Male,Reliance Trends,Kolkata,2064,20,3.9,All,378
+645,Kids Jacket,Formal,Children,Reliance Trends,Delhi,402,20,3,All,72
+646,Top,Formal,Female,Fabindia,Mumbai,1152,0,3.3,Festival,272
+647,Jeans,Winter,Male,Zudio,Hyderabad,2098,30,4.6,All,189
+648,Track Pants,Formal,Male,Westside,Bangalore,491,20,3.9,Summer,118
+649,Skirt,Winter,Female,Reliance Trends,Kolkata,1218,15,4.5,Summer,246
+650,Blazer,Casual,Male,Zudio,Kolkata,3356,0,4,Winter,126
+651,Lehenga,Ethnic,Female,Pantaloons,Kolkata,3181,0,4.5,All,301
+652,Kids T-Shirt,Ethnic,Children,Fabindia,Hyderabad,1012,10,4.8,Festival,462
+653,Kids Shorts,Casual,Children,Fabindia,Bangalore,1528,0,3.3,Winter,161
+654,Kids T-Shirt,Winter,Children,Reliance Trends,Mumbai,2579,40,4.4,Winter,372
+655,Kids Shorts,Ethnic,Children,Pantaloons,Delhi,2246,0,4.4,Summer,193
+656,Kids T-Shirt,Casual,Children,Fabindia,Delhi,3071,20,4.6,All,84
+657,Saree,Ethnic,Female,Fabindia,Hyderabad,3498,15,4.5,Monsoon,30
+658,Kids Jacket,Ethnic,Children,Westside,Mumbai,2186,30,3.9,Winter,170
+659,Kids Tracksuit,Winter,Children,Max,Delhi,2425,10,3.6,Winter,259
+660,Skirt,Sports,Female,Pantaloons,Mumbai,2374,5,3.9,Monsoon,439
+661,Jeans,Ethnic,Female,Reliance Trends,Kolkata,2271,15,4.5,Festival,472
+662,Kurta,Ethnic,Male,Pantaloons,Hyderabad,3152,0,4.3,Monsoon,295
+663,Saree,Sports,Female,Max,Delhi,2710,10,3.6,Festival,348
+664,Kurti,Casual,Female,Fabindia,Mumbai,378,40,4.9,Monsoon,111
+665,Shirt,Casual,Male,Pantaloons,Mumbai,329,20,4.3,Festival,218
+666,Kids Jacket,Sports,Children,Fabindia,Chennai,1247,0,3.7,Monsoon,330
+667,Kids T-Shirt,Casual,Children,Fabindia,Bangalore,3843,40,3.2,Winter,430
+668,Kids T-Shirt,Ethnic,Children,Fabindia,Bangalore,3566,10,4.6,Monsoon,49
+669,Kids Jeans,Sports,Children,Fabindia,Mumbai,3616,10,3.2,Summer,130
+670,Kids T-Shirt,Casual,Children,Max,Bangalore,975,5,4.1,Winter,147
+671,Kids Tracksuit,Formal,Children,Fabindia,Chennai,1899,30,3.2,Monsoon,346
+672,Kids Jeans,Winter,Children,Reliance Trends,Delhi,3444,5,4.1,Festival,278
+673,Salwar Suit,Formal,Female,Max,Bangalore,1642,10,4.1,Monsoon,186
+674,Lehenga,Winter,Female,Max,Delhi,2505,20,3.4,All,412
+675,Kids Tracksuit,Ethnic,Children,Zudio,Bangalore,1825,0,4.5,All,165
+676,Kids T-Shirt,Sports,Children,Westside,Mumbai,1429,5,3.4,Winter,181
+677,Track Pants,Ethnic,Male,Max,Chennai,2536,20,3.3,Monsoon,39
+678,Top,Formal,Female,Westside,Hyderabad,3842,20,3.5,Winter,151
+679,Kurti,Sports,Female,Max,Delhi,3206,0,4.4,Festival,425
+680,Saree,Winter,Female,Reliance Trends,Chennai,2829,10,3.1,Monsoon,433
+681,Kids Jacket,Casual,Children,Westside,Hyderabad,3802,40,3.9,Summer,496
+682,Track Pants,Formal,Male,Reliance Trends,Kolkata,3383,30,3.8,Monsoon,176
+683,Kids T-Shirt,Ethnic,Children,Max,Delhi,1537,20,4.4,Monsoon,98
+684,Blazer,Winter,Male,Max,Chennai,2266,0,3.4,Festival,168
+685,Saree,Formal,Female,Reliance Trends,Bangalore,2539,30,3.1,All,224
+686,Kurti,Winter,Female,Zudio,Kolkata,733,40,3.3,Monsoon,306
+687,Jacket,Winter,Male,Pantaloons,Chennai,2722,30,4,Monsoon,144
+688,Jeans,Winter,Male,Fabindia,Chennai,565,0,4.3,All,236
+689,Top,Formal,Female,Westside,Chennai,2883,0,4.5,All,106
+690,Jeans,Winter,Female,Pantaloons,Bangalore,382,40,3.5,Monsoon,370
+691,Saree,Casual,Female,Fabindia,Mumbai,1194,20,4.9,Summer,464
+692,Kurti,Ethnic,Female,Westside,Bangalore,2128,0,3.7,Summer,398
+693,Kids Shorts,Formal,Children,Max,Hyderabad,2446,15,4.2,Monsoon,92
+694,Kids Tracksuit,Casual,Children,Max,Kolkata,2356,0,3.5,Festival,50
+695,Saree,Sports,Female,Reliance Trends,Bangalore,2880,0,3.1,All,358
+696,Salwar Suit,Ethnic,Female,Reliance Trends,Hyderabad,3751,30,3.8,Summer,214
+697,Kids Tracksuit,Casual,Children,Zudio,Chennai,2376,0,3.4,All,276
+698,Jeans,Casual,Female,Pantaloons,Chennai,1447,10,4,Summer,401
+699,T-Shirt,Ethnic,Male,Westside,Kolkata,1437,5,5,All,276
+700,Skirt,Casual,Female,Zudio,Mumbai,2472,10,3.5,All,194
